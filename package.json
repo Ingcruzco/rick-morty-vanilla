@@ -1,0 +1,11 @@
+{
+  "name": "cssrickandmorty",
+  "version": "1.0.0",
+  "description": "App to use  rick and morty API (()\u001b[https://rickandmortyapi.com)",
+  "main": "index.html",
+  "scripts": {
+    "start": "index.html"
+  },
+  "author": "luis cruz",
+  "license": "MIT"
+}
